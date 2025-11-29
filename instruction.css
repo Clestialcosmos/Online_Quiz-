@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom,white,lightblue,blue,darkblue);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+.box {
+    margin: 10%;
+    height: 60%;
+    width: 60%;
+    background-color: whitesmoke;
+    opacity: 0.5;
+    border-radius: 20px;
+}
